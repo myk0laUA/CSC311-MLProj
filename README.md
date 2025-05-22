@@ -1,7 +1,7 @@
-# CSC311-MLProj
+# CSC311-ML CLasisfier
 
 ## Overview
-**CSC311-MLProj** is a machine learning project completed for the Winter 2025 *CSC311 Machine Learning Challenge* at the University of Toronto. The aim of this project was to build a classifier that predicts which of three food items a student is referring to (Pizza, Shawarma, or Sushi) based on their responses to a survey. This repository contains the code and documentation for our solution, which ultimately achieved high accuracy in classifying the food item from survey data.
+**ML CLasisfier** is a machine learning project completed for the Winter 2025 *CSC311 Machine Learning Challenge* at the University of Toronto. The aim of this project was to build a classifier that predicts which of three food items a student is referring to (Pizza, Shawarma, or Sushi) based on their responses to a survey. This repository contains the code and documentation for our solution, which ultimately achieved high accuracy in classifying the food item from survey data.
 
 ## Dataset
 The model is trained on a dataset of student survey responses, with each sample characterized by eight features. These features include a mix of **numerical ratings, categorical (multiple-choice) answers, and free-text responses**. We performed extensive preprocessing to convert all features into a machine-readable numeric form:
